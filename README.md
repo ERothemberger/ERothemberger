@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ERothemberger
+- 👋 Hi, I’m @ERothemberger "business owner of a startup e-commerce online store"
 - 👀 I’m interested in integrating products that were given me from a company to integrate on my outcoming online store
 - 🌱 I’m currently learning mobile web specialist on google
 - 💞️ I’m looking to collaborate with anybody that undarstands woocommerce (e-commerce) integration API and more. 
